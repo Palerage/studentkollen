@@ -73,6 +73,7 @@ body{
     flex-direction: column;
     background-color: rgb(231, 231, 231);
     padding: 20px;
+    margin-bottom: 20px;
 }
 
 .rabatt_container .rabatt_section{
